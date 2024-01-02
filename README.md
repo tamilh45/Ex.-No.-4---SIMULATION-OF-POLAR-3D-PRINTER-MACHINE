@@ -33,8 +33,8 @@
 
 ![Screenshot 2023-11-22 085320](https://github.com/tamilh45/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/150312761/ad8dd714-187b-4edb-a4df-a4c5f1496d2b)
 
-### Name: TAMIL PAVALAN
-### Register Number: 23013740
+### Name: SIVAKUMAR R
+### Register Number: 23013501
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
